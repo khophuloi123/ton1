@@ -1,1 +1,1 @@
-<a href="baoviet.homes">Bảo Việt Homes</a>
+<a href="baoviet.homes" target="_blank">Bảo Việt Homes</a>
